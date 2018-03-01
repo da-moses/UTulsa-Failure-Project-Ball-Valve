@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}Summary of Conclusions and Recommendations}{2}{section.1}
+\contentsline {section}{\numberline {2}Introduction}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Ball Valve Components and Operation}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}1/4" Ball Valve Case Study}{2}{subsection.2.2}
+\contentsline {section}{\numberline {3}Initial Visual Inspection}{2}{section.3}
+\contentsline {section}{\numberline {4}Laboratory Examinations}{2}{section.4}
+\contentsline {subsection}{\numberline {4.1}SEM}{2}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Metallographic Examination}{4}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Seal Pressure}{4}{subsection.4.3}
+\contentsline {section}{\numberline {5}Analysis}{4}{section.5}
+\contentsline {subsection}{\numberline {5.1}CFD}{4}{subsection.5.1}
+\contentsline {section}{\numberline {6}Recommendations}{4}{section.6}
+\contentsline {subsection}{\numberline {6.1}Research Considerations}{4}{subsection.6.1}
